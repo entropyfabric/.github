@@ -1,2 +1,0 @@
-# .github
-End cloud waste.
